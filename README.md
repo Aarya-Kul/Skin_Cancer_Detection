@@ -2,6 +2,8 @@
 
 This project presents a novel multi-model Convolutional Neural Network (CNN) architecture for early skin cancer detection. Inspired by the importance of at-home diagnostic tools, we designed a pipeline that classifies skin abnormalities into both cancerous and non-cancerous categories — and further classifies them by type.
 
+The research report can be found: [A Multi-Model Approach to Skin Lesion Analysis with Machine Learning](https://github.com/Aarya-Kul/Skin_Cancer_Detection/blob/main/Research_Report.pdf) 
+
 ---
 
 ## 🏗️ Project Overview
